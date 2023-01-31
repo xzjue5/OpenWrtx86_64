@@ -8,7 +8,7 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git packages https://github.com/kiddin9/openwrt-packages.git
+src-git xzjue https://github.com/kiddin9/openwrt-packages.git
 src-git openclash https://github.com/vernesong/OpenClash
 src-git OpenAppFilter https://github.com/Lienol/openwrt-OpenAppFilter
 
